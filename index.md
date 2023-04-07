@@ -30,13 +30,15 @@ If I had to order those things from what I do most to what I do least then it wo
 4. Crochet
 
 Some habits that I want to implement this Spring Quarter are:
-- [ ] Not skipping lectures
-- [ ] Going to sleep at 12 AM latest
-- [x] Lowering caffiene intake
+- [ ]  Not skipping lectures
+- [ ]  Going to sleep at 12 AM latest
+- [x]  Lowering caffiene intake
 
 ## Gallery
 ![Image](Mary-and-Phil.jpg)
 ![Image](Mary-and-Minsung.JPG)
 ![Image](Mary-and-Julia.jpg)
 ![Image](picnic.JPG)
-![Image](Mary-and-Cousins.JPG)
+![Image](Mary-and-Cousins.jpg)
+
+Lastly, check out the README file for this project [here](README.md).
